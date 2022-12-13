@@ -1,5 +1,5 @@
 def my_superfunction():
-    print('YL')
+    print('What an awesome print!')
 
 
 def main():
