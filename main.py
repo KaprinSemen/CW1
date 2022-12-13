@@ -1,6 +1,8 @@
 def my_superfunction():
     print('Hello python')
 
+def func():
+    print(1)
 
 def main():
     print('My first git program')
